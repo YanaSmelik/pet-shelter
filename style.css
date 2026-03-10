@@ -2,6 +2,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   background-color: rgba(248, 246, 244);
+  margin: 0;
 }
 
 header {
