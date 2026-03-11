@@ -210,6 +210,7 @@ h2 {
   text-align: center;
 }
 
+/* TODO fix bottom overlap with footer */
 .gallery_item {
   display: inline-block;
   width: 30%;
@@ -217,7 +218,7 @@ h2 {
   height: 600px;
   box-sizing: border-box;
   box-shadow: 2px 2px 4px lightgray;
-  margin: 17px 10px;
+  margin: 1.5% 1%;
   transition: transform 0.3s ease;
   border-radius: 10px;
 }
