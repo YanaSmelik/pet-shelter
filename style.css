@@ -217,12 +217,11 @@ h2 {
   height: 600px;
   box-sizing: border-box;
   box-shadow: 2px 2px 4px lightgray;
-  margin: 4px;
+  margin: 17px 10px;
   transition: transform 0.3s ease;
-
+  border-radius: 10px;
 }
 
-/* TODO: fix scaling of other elements */
 .gallery_item:hover {
   transform: scale(1.1);
 }
